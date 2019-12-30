@@ -4,8 +4,8 @@ Transformer模型的PyTorch实现
 学习博主<a href="http://www.jintiankansha.me/t/RcTuLXkjul">这篇文章</a>的代码。
 
 本项目使用
-+ python 2.7
-+ pytorch 0.4.0
++ python 3.6
++ pytorch 1.3.1
 
 ## Transformer架构
 
